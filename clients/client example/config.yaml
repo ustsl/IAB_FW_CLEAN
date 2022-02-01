@@ -1,0 +1,11 @@
+sheet_id: google sheet token
+
+profile_id: google analytics token
+
+yandex_counter: yandex metrika counter
+
+yandex_goals: ['ym:s:goal57088657users', 'ym:s:goal124790644users']
+
+yandex_clean_goals: ['ym:s:goal57088657users', 'ym:s:goal124790644users']
+
+google_goals: ['ga:goal10Starts', 'ga:goal9Starts' ]

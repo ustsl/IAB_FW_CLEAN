@@ -1,0 +1,9 @@
+parse_type: yandex_metrika
+
+interval: month
+
+dimensions: [ 'ym:s:startOfMonth', 'ym:s:<attribution>TrafficSource', 'ym:s:startURLDomain', 'ym:s:startURLPath', 'ym:s:bounce']
+
+metrics: ['ym:s:visits', 'ym:s:pageDepth', 'ym:s:avgVisitDurationSeconds']
+
+filters:
